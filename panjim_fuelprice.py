@@ -1,4 +1,4 @@
-#This script will fetch you daily fuel price in panjim
+#!/usr/local/bin/python3
 import os
 import re
 import time
